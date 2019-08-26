@@ -51,4 +51,4 @@ navbar:
     title: CV
 
 
-exclude: ["config.rb", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
+exclude: ["config.rb", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile", "personal-website.code-workspace"]
