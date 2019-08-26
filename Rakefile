@@ -9,7 +9,7 @@ require "bourbon"
 GITHUB_REPONAME = "shawes/shawes.github.io"
 GITHUB_REPO_BRANCH = "gh-pages"
 
-SOURCE = "src/"
+SOURCE = ""
 DEST = "_site"
 CONFIG = {
   'layouts' => File.join(SOURCE, "_layouts"),
@@ -24,7 +24,7 @@ task default: %w[publish]
 desc "Generate blog files"
 task :generate do
   Jekyll::Site.new(Jekyll.configuration({
-    "source"      => "src/",
+    "source"      => "",
     "destination" => "_site",
     "config"      => "_config.yml"
   })).process

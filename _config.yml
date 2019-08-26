@@ -18,7 +18,7 @@ sass:
   style: compressed # expanded
 
 #google_analytics: UA-52446115-1
-#repo: http://github.com/shawes/shawes.github.io
+repository: shawes/shawes.github.io
 #disqus_shortname: "nandothemes"
 #disqus_site_shortname: "nandothemes"
 
