@@ -1,4 +1,6 @@
 # Build settings
+title: Dr Steve Hawes
+description: This is a website about me
 permalink: /blog/:year/:title/
 markdown: kramdown
 highlighter: rouge
@@ -11,7 +13,7 @@ pagination:
 
 comments: true
 
-title: Dr Steve Hawes
+
 
 sass:
   sass_dir: _sass
