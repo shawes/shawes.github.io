@@ -7,9 +7,9 @@ require "bourbon"
 
 # Change your GitHub reponame
 GITHUB_REPONAME = "shawes/shawes.github.io"
-GITHUB_REPO_BRANCH = "gh-pages"
+GITHUB_REPO_BRANCH = "master"
 
-SOURCE = ""
+SOURCE = "."
 DEST = "_site"
 CONFIG = {
   'layouts' => File.join(SOURCE, "_layouts"),
