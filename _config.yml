@@ -4,12 +4,11 @@ description: This is a website about me
 permalink: /blog/:year/:title/
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate-v2]
+plugins: [jekyll-paginate]
 
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: "/page/:num/"
+# Pagination 
+paginate: 3
+paginate_path: /blog/page:num/
 
 comments: true
 

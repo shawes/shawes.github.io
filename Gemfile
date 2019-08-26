@@ -21,9 +21,7 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "bourbon"
-  gem "jekyll-feed"
-  gem "jekyll-paginate-v2"
-  gem "pygments.rb"
+  gem "jekyll-paginate"
   gem "jekyll-compose"
   gem "kramdown"
 end

@@ -4,7 +4,6 @@ title:  "Second!"
 date:   2019-08-26 13:46:52
 comments: false
 image: /assets/images/winmar.jpg
-categories: 
 ---
 
 More things to talk about
