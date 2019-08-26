@@ -9,9 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #gem "jekyll", "~>3.6.0"
-gem "rake", "~>10.5"
+gem "rake"
 gem "sassc"
-gem "json", "~> 2"
+gem "json"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -20,8 +20,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "bourbon", "~>4.3"
-  gem "jekyll-feed", "~>0.6"
+  gem "bourbon"
+  gem "jekyll-feed"
   gem "jekyll-paginate-v2"
   gem "pygments.rb"
   gem "jekyll-compose"

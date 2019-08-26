@@ -257,15 +257,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bourbon (~> 4.3)
+  bourbon
   github-pages
   jekyll-compose
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-paginate-v2
-  json (~> 2)
+  json
   kramdown
   pygments.rb
-  rake (~> 10.5)
+  rake
   sassc
 
 BUNDLED WITH
