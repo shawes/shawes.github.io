@@ -11,8 +11,6 @@ pagination:
 
 comments: true
 
-source: 
-destination: _site
 sass:
   sass_dir: _sass
   style: compressed # expanded
@@ -49,4 +47,4 @@ navbar:
     title: CV
 
 
-exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
+exclude: ["config.rb", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
