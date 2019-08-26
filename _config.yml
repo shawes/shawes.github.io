@@ -1,5 +1,5 @@
 # Build settings
-title: Dr Steve Hawes
+title: Dr Steven Hawes
 description: This is a website about me
 permalink: /blog/:year/:title/
 markdown: kramdown
@@ -28,7 +28,7 @@ repository: shawes/shawes.github.io
 author:
   name: Steve Hawes
   job: Marine and Data Scientist
-  thumb: /images/author.jpg
+  thumb: assets/images/author.jpg
   email: maxhawes@gmail.com
   url: https://stevehawes.me/
   github: https://github.com/shawes
