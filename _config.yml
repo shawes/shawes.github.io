@@ -11,11 +11,13 @@ pagination:
 
 comments: true
 
+title: Dr Steve Hawes
+
 sass:
   sass_dir: _sass
   style: compressed # expanded
 
-#google_analytics: UA-52446115-1
+google_analytics: UA-146477071-1
 repository: shawes/shawes.github.io
 #disqus_shortname: "nandothemes"
 #disqus_site_shortname: "nandothemes"
