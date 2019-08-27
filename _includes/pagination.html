@@ -1,4 +1,4 @@
-<!-- {% if paginator.total_pages > 1 %}
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
   <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;
@@ -26,9 +26,9 @@
   <span>Next &raquo;</span>
   {% endif %}
 </div>
-{% endif %} -->
+{% endif %}
 
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <nav class="pagination" role="pagination">
   <ul>
     {% assign url = site.baseurl | append: "/blog/" %}
@@ -49,4 +49,4 @@
     {% endif %}
   </ul>
 </nav>
-{% endif %}
+{% endif %} -->
